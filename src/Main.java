@@ -34,11 +34,12 @@ public class Main{
 			
 			    	 	    	
 			     message += letter;
-		   System.out.println( message );
 			
 			
 			
-			 in.close();}
+			 in.close();
+			 }
+			    System.out.println( message );
 	}
 }
 	
